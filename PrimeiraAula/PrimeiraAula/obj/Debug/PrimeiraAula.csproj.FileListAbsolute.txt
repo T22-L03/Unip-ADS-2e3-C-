@@ -1,0 +1,9 @@
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.Properties.Resources.resources
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb
+C:\Users\ACER\Documents\Tiago\POO - Reverdan\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.frmPrincipal.resources
